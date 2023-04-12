@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#wrapper-gif-caveiras {
+	margin: auto;
+}
+
+label {
+	color: blue !important;
+}
+
+h1 {
+	color: gray;
+}
+
+h1.center {
+	text-align: center;
+}
+
+.wrapper-main {
+	margin: auto;
+}
